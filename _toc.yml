@@ -1,5 +1,5 @@
 format: jb-book
-root: index
+root: index-models
 chapters:
 - file: 1_models-quick-fit
 - file: 2_user-defined-model
