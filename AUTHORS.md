@@ -1,1 +1,1 @@
-AUTHOR1 (@GITHUB-USERNAME, ORCID-ID), AUTHOR2 (@GITHUB-USERNAME, ORCID-ID)
+Rocio Kiman, Lia Corrales, Zé Vinícius, Kelle Cruz, Stephanie T. Douglas
